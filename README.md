@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Ankitkumar021998/Ankitkumar021998/blob/main/cover%20img.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer👨🏻‍💻</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar021998&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar021998" /> </p>
 
-- 📚Always: **learning New Technologies & Improving problem solving**
+- 📚Always: **Learning New Technologies & Improving problem solving**
 
 - 🎯Goal : **To become a highly skilled Software Engineer and build scalable, user-friendly applications using modern web technologies.😌**
 
