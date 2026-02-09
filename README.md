@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer👨🏻‍💻</h3>
+<h3 align="center">A Passionate Full Stack Developer👨🏻‍💻</h3>
 
 <img align="right" alt="coding" width="300px" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumar021998&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumar021998" /> </p>
 
-- 📚Always: learning New Technologies & Improving problem solving
+- 📚Always: **learning New Technologies & Improving problem solving**
 
-- 🎯Goal : **Become a Very Good Software Engineer😌**
+- 🎯Goal : **To become a highly skilled Software Engineer and build scalable, user-friendly applications using modern web technologies.😌**
 
-- ⚡ Fun fact **I enjoy debugging more than sleeping🫣**
+- ⚡ Fun fact: **I enjoy debugging more than sleeping🫣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
